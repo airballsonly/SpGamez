@@ -33,7 +33,6 @@ a {
   line-height: 40px;
   text-decoration: none;
   text-align: center;
-
     </style>
   </head>
   <body style = "background: url(https://cdn4.vectorstock.com/i/1000x1000/44/13/funny-cartoon-whale-jumps-out-of-the-water-vector-13784413.jpg); background-size: 100%;">  

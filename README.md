@@ -13,7 +13,7 @@
 ul {
    list-style-type: none;
    overflow: hidden;
-   width: 400px;
+   width: 600px;
    margin: 0px auto;
 }
       
